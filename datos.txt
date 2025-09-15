@@ -1,0 +1,4 @@
+# Aquí se guardarán los nombres en formato TXT
+edinson teerna
+edinson
+edinson
